@@ -4,4 +4,8 @@ branch2
 merge
 branch1
 
+
 pull b2
+and
+b2 (not pull)
+
