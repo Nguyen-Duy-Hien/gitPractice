@@ -4,3 +4,4 @@ branch2
 merge
 branch1
 
+pull b2
